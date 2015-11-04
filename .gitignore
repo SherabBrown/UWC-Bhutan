@@ -1,0 +1,79 @@
+<html>
+	<head>
+<title>UWC Bhutan</title> 
+<style type="text/css">
+	h1 {font-size: 30px; font-family: arial; color:green;}
+	h2 {font-size: 30px; font-family: arial; color:red;}
+	p {font-size: 20px; font-family: "arial"; color:black;}
+</style> 
+	</head>
+
+	<body style="Background-color:#EEE9E9;" style=background-image: url(>
+<figure>
+  <img scr="C:/Users/Sherab/Desktop/UWCClub/logo.png" alt="UWC Logo">
+</figure>
+
+<h2 title = "The National Committee" id="uwcinfo"><a href="http://www.uwc.org/">UWC Bhutan </a></h2>
+<p><strong>UWC is a brilliant movement to bring the world together in a sustainable and active way - focusing on youth, who, as the leaders love saying, <em>are the future of the world.</em> 
+<br>
+If you want a life changing experience, UWC is the place for you and all of us here at UWC Bhutan can tell you without a doubt that you will have the time of your lives there! </strong></p>
+
+	<hr>
+
+<h3 style="color:blue">To Apply to this Fairy-tale Program</h3>
+	<ol >
+	<li>Be awesome </li>
+	<li>Come say hi ;) </li>
+	<li>We will love you forever</li>
+	</ol>
+	<hr>
+
+<p><strong>So yeah, if you think that UWC is the thing for you, come! we welcome everyone and everyone loves us. <br>
+Again, if you want to know more about UWCs, <a href="#uwcinfo" title="The UWC Website offers a bank of good information on its programs and stuff">click here</a> <br> <br>
+
+Of course, you will find yourseld mired in deep questions and questions sometimes in which case we do now blame you. We stand with you, and for all that you are, we are dedicated to giving you the best. <br>
+Email Sherab with any question to <a href="mailto:sherab_dorji@brown.edu" title="Email Sherab with any question you have about UWC Movement">sherab_dorji@brown.edu </a>
+
+	<hr> 
+<h3 title = "Details of UWC Alums" id = "UWC Alumni"><strong>UWC Bhutan Alumni </strong> </h3> 
+
+<table border ="1">
+	<tr>
+		<th rowspan="2">Name</th>
+		<th colspan="4">Details</th>
+	</tr>
+	<tr>
+		
+		<th>UWC  Attended</th>
+		<th>Year of Graduation</th>
+		<th>Current Address</th>
+		<th>Email Address</th>
+	</tr>
+	
+	<tr>
+		<td>Sherab Dorji</td>
+		<td>UWC Maastricht</td>
+		<td>2015</td>
+		<td>Brown University</td>
+		<td>sherab_dorji@brown.edu</td>
+	</tr>
+	<tr>
+		<td>Kuenzang Om</td>
+		<td>UWC Pearson</td>
+		<td>2014</td>
+		<td>Whitman College</td>
+		<td></td> 
+	</tr>
+
+
+</table>
+
+
+
+	</body>
+
+
+
+
+
+</html>
